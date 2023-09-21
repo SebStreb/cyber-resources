@@ -2,8 +2,8 @@
 
 void func(char *str) {
   int i;
-  char buf[16];
-  for (i=0;i<=16;i++) {
+  char buf[28];
+  for (i=0;i<=28;i++) {
     buf[i] = str[i];
   }
 }
